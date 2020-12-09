@@ -1,5 +1,3 @@
-.test {
-  display: none;
-  float: right;
-  display: grid;
+body {
+  color: red !important;
 }
