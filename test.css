@@ -1,4 +1,5 @@
 .test {
   display: none;
   float: right;
+  display: grid;
 }
